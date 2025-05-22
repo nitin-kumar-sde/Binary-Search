@@ -96,7 +96,7 @@ for usage please refer `demo.cpp`.
 
 ---
 
-### 🧰Binary Search on Subarrays
+## 🧰Binary Search on Subarrays
 - [Minimum Size Subarray](https://leetcode.com/problems/minimum-size-subarray-sum)
 - [Maximum repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
 
