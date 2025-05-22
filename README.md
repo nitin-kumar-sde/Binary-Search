@@ -13,8 +13,9 @@ Apart from this this repository also contains custom implementation of `lower_bo
 - [🔍 Basic Binary Search](#basic-binary-search)
 - [⏳ Lower Bound / Upper Bound](#lower-bound--upper-bound)
 - [🧬 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
-- [🌸 Binary Search on Answers](#binary-search-on-answers)
-- [🗺️ 2D Binary Search](#2d-binary-search)
+- [⏰ Binary Search on Answers](#binary-search-on-answers)
+- [🔑 Binary search on doubles](#binary-search-on-doubles)
+- [🧱 Binary Search on Grids](#binary-search-on-grids)
 - [🧰 Variations & Edge Cases](#variations--edge-cases)
 - [💬 Contributing](#contributing)
 - [🔗 References](#references)
@@ -74,7 +75,7 @@ for usage please refer `demo.cpp`.
   
 ---
 
-## 🌸Binary Search on Answers
+## ⏰Binary Search on Answers
 
 > Use when function is monotonic and you need to **minimize/maximize an answer**.
 
@@ -93,7 +94,13 @@ for usage please refer `demo.cpp`.
 
 ---
 
-## 🗺️ 2D Binary Search
+## 🔑Binary search on doubles
+- [Sqrt upto given precision](https://www.geeksforgeeks.org/find-square-root-number-upto-given-precision-using-binary-search/)
+- [Kth smallest fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction)
+- [Gas stations](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/)
+
+  
+## 🧱 Binary Search on Grids
 
 ### 📘 Tutorial  
 - [Matrix Search – GFG](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)
@@ -104,6 +111,9 @@ for usage please refer `demo.cpp`.
 - [Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 ---
+
+
+- 
 
 ## 🧰 Variations & Edge Cases
 
