@@ -14,11 +14,9 @@ Apart from this this repository also contains custom implementation of `lower_bo
 - [⏳ Lower Bound / Upper Bound](#lower-bound--upper-bound)
 - [🧬 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
 - [⏰ Binary Search on Answers](#binary-search-on-answers)
+- [🧰 Binary Search on Subarrays](#binary-search-on-subarrays)
 - [🔑 Binary search on doubles](#binary-search-on-doubles)
 - [🧱 Binary Search on Grids](#binary-search-on-grids)
-- [🧰 Variations & Edge Cases](#variations--edge-cases)
-- [💬 Contributing](#contributing)
-- [🔗 References](#references)
 
 ---
 
@@ -95,6 +93,13 @@ for usage please refer `demo.cpp`.
 - [Median of sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 - [Kth element of 2 sorted arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 
+
+---
+
+### 🧰Binary Search on Subarrays
+- [Minimum Size Subarray](https://leetcode.com/problems/minimum-size-subarray-sum)
+- [Maximum repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray)
+
 ---
 
 ## 🔑Binary search on doubles
@@ -103,7 +108,7 @@ for usage please refer `demo.cpp`.
 - [Gas stations](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/)
 
   
-## 🧱 Binary Search on Grids
+## 🧱Binary Search on Grids
 
 ### 📘 Tutorial  
 - [Matrix Search – GFG](https://www.geeksforgeeks.org/search-in-row-wise-and-column-wise-sorted-matrix/)
@@ -118,19 +123,6 @@ for usage please refer `demo.cpp`.
 ---
 
 
-- 
-
-## 🧰 Variations & Edge Cases
-
-### 🧪 Edge-Case Driven  
-- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- [Minimum in Rotated Array with Duplicates](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [Find kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
-- [H-Index II](https://leetcode.com/problems/h-index-ii/)
-
----
-
 ## 💬 Contributing
 
 ✨ **Want to make this list better?** Feel free to contribute!
@@ -144,9 +136,8 @@ for usage please refer `demo.cpp`.
 ## 🔗 References
 
 - [CP Algorithms – Binary Search](https://cp-algorithms.com/search.html)
-- [GFG – Binary Search Collection](https://www.geeksforgeeks.org/binary-search/)
-- [Leetcode – Binary Search Tag](https://leetcode.com/tag/binary-search/)
-- [Tushar Roy – Binary Search Patterns](https://www.youtube.com/watch?v=YbY8cVwWAvw)
+- [GFG – Binary Search](https://www.geeksforgeeks.org/binary-search/)
+- [Leetcode – Binary Search](https://leetcode.com/tag/binary-search/)
 
 ---
 
