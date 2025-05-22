@@ -11,7 +11,7 @@ Apart from this this repository also contains custom implementation of `lower_bo
 ## 📚 Table of Contents
 
 - [🔍 Basic Binary Search](#basic-binary-search)
-- [📏 Lower Bound / Upper Bound](#lower-bound--upper-bound)
+- [⏳ Lower Bound / Upper Bound](#lower-bound--upper-bound)
 - [🧮 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
 - [🧠 Binary Search on Answer](#binary-search-on-answer)
 - [🗺️ 2D Binary Search](#2d-binary-search)
@@ -35,7 +35,7 @@ Apart from this this repository also contains custom implementation of `lower_bo
 
 ---
 
-## 🧱 Lower Bound / Upper Bound
+## ⏳Lower Bound / Upper Bound
 
 ### 🧠 Concept  
 - **Lower Bound**: First element ≥ target  
