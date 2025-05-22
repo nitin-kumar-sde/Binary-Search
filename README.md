@@ -13,7 +13,7 @@ Apart from this this repository also contains custom implementation of `lower_bo
 - [🔍 Basic Binary Search](#basic-binary-search)
 - [⏳ Lower Bound / Upper Bound](#lower-bound--upper-bound)
 - [🧬 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
-- [🧠 Binary Search on Answer](#binary-search-on-answer)
+- [🌸 Binary Search on Answers](#binary-search-on-answers)
 - [🗺️ 2D Binary Search](#2d-binary-search)
 - [🧰 Variations & Edge Cases](#variations--edge-cases)
 - [💬 Contributing](#contributing)
@@ -74,20 +74,22 @@ for usage please refer `demo.cpp`.
   
 ---
 
-## 🧠 Binary Search on Answer
+## 🌸Binary Search on Answers
 
 > Use when function is monotonic and you need to **minimize/maximize an answer**.
 
-### 📘 Must-Read Guide  
-- [Binary Search on Answer – Tushar Roy](https://www.youtube.com/watch?v=YbY8cVwWAvw)
+### 📘 Tutorial  
+- [Binary Search on Answers](https://leetcode.com/discuss/post/3725477/binary-search-on-answer-koko-type-by-sam-a350/)
 
-### 🧩 Problems  
-- [Minimum Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
-- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
-- [Min Days to Make Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)
+### 🧱 Problems  
+- [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+- [Minimum Capacity to Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
+- [Min Days to Make Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Aggressive Cows – SPOJ](https://www.spoj.com/problems/AGGRCOW/)
-- [Allocate Minimum Number of Pages – GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+- [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/)
+- [Book allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
+- [Painter Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem/)
+- [Split largest sum subarray](https://leetcode.com/problems/split-array-largest-sum/description/)
 
 ---
 
