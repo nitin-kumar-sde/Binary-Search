@@ -12,7 +12,7 @@ Apart from this this repository also contains custom implementation of `lower_bo
 
 - [🔍 Basic Binary Search](#basic-binary-search)
 - [⏳ Lower Bound / Upper Bound](#lower-bound--upper-bound)
-- [🧮 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
+- [🧬 Search in Rotated Sorted Array](#search-in-rotated-sorted-array)
 - [🧠 Binary Search on Answer](#binary-search-on-answer)
 - [🗺️ 2D Binary Search](#2d-binary-search)
 - [🧰 Variations & Edge Cases](#variations--edge-cases)
@@ -32,6 +32,8 @@ Apart from this this repository also contains custom implementation of `lower_bo
 - [Floor/Ceiling of Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1)
 - [First and Last occurance of a number](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)
 - [Count frequency of sorted array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)
+- [Single element in array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+- [Peak element in array](https://leetcode.com/problems/find-peak-element/description/)
 
 ---
 
@@ -60,16 +62,16 @@ for usage please refer `demo.cpp`.
 
 ---
 
-## 🧮 Search in Rotated Sorted Array
+## 🧬Search in Rotated Sorted Array
 
 ### 📘 Tutorial  
-- [GFG: Search in Rotated Array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-rotated-array/)
+- [GFG: Search in Rotated Array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
 
-### 🧩 Problems  
-- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+### ♻️ Problems  
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description)
 - [Search in Rotated Array II (Duplicates)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
-
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+  
 ---
 
 ## 🧠 Binary Search on Answer
