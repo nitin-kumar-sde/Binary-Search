@@ -26,6 +26,7 @@ Apart from this this repository also contains custom implementation of `lower_bo
 
 ### 📘 Tutorial  
 - [Binary Search](https://cp-algorithms.com/num_methods/binary_search.html)
+- [Concept of Opposite Polarity](https://www.geeksforgeeks.org/understanding-opposite-polarity-concept-in-binary-search/)
 
 ### 🧭 Problems  
 - [Binary Search](https://leetcode.com/problems/binary-search/description/)
