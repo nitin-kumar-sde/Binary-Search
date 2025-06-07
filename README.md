@@ -52,6 +52,7 @@ For custom implementation please refer
  📁 binary-search      
 ├── README.md                
 ├── mystl/               
+│   └── binary_search.hpp
 │   └── lower_bound.hpp
 │   └── upper_bound.hpp
 ├── demo.cpp
