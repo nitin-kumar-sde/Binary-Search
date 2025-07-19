@@ -92,6 +92,7 @@ for usage please refer `demo.cpp`.
 - [Painter Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem/)
 - [Split largest sum subarray](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [Median of sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+- [Factory Machines](https://cses.fi/problemset/task/1620)
 
 
 ---
