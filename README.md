@@ -92,7 +92,6 @@ for usage please refer `demo.cpp`.
 - [Painter Partition Problem](https://www.geeksforgeeks.org/painters-partition-problem/)
 - [Split largest sum subarray](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [Median of sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
-- [Kth element of 2 sorted arrays](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)
 
 
 ---
@@ -122,8 +121,8 @@ for usage please refer `demo.cpp`.
 - [Peak element in matrix](https://leetcode.com/problems/find-a-peak-element-ii/description/)
 - [Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
----
 
+---
 
 ## 💬 Contributing
 
