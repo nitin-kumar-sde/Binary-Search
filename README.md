@@ -17,6 +17,7 @@ This repository also contains custom implementation of `lower_bound` and `upper_
 - [🧰 Binary Search on Subarrays](#binary-search-on-subarrays)
 - [🔑 Binary search on Doubles](#binary-search-on-doubles)
 - [🧱 Binary Search on Grids](#binary-search-on-grids)
+- [🏺 Additional Problems](#additional-problems)
 
 ---
 
@@ -123,6 +124,10 @@ for usage please refer `demo.cpp`.
 - [Kth Smallest Element in Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)
 
 
+# 🏺Additional Problems
+- [Help Fredo](https://www.hackerearth.com/practice/algorithms/searching/binary-search/practice-problems/algorithm/help-fredo/)
+
+  
 ---
 
 ## 💬 Contributing
